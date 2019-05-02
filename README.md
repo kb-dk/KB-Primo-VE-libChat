@@ -7,5 +7,5 @@
 
        
        
- ![Screenshot](chatbox.jfif) 
+ ![Screenshot](chatbox.png) 
  *(screenshot taken from Harvard)*
