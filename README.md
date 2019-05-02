@@ -8,4 +8,5 @@
        
        
  ![Screenshot](chatbox.png) 
+ 
  *(screenshot taken from Harvard)*
