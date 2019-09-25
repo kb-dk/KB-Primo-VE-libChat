@@ -26,7 +26,7 @@
   ],
   "license": "Apache-2.0",
   "main": "dist/index.js",
-  "name": "kb-primo-ve-lib-chat",
+  "name": "kb-primo-ve-libchat",
   "optionalDependencies": {
     "eslint": "^6.1.0",
     "eslint-plugin-angular": "^4.0.1"
