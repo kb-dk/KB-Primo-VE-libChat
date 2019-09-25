@@ -4,7 +4,6 @@
        
  ![Screenshot](chatbox.png) 
  
- *(screenshot taken from Harvard)*
  
  # Create the package
  * npm install
