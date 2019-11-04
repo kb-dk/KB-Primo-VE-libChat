@@ -15,6 +15,15 @@
  npm install kb-primo-ve-libchat --save-dev
  ```
  
+ Set scriptIds constant in `js/main.js` like below:
+ ```javascript 
+    .constant('scriptIds' , {
+        'en': 'XXXXXXXXXXX',
+        'da': 'YYYYYYYYYYY'
+    })
+```
+
  Add to bottom of `js/main.js`
  ```javascript
- require('kb-primo-ve-libchat/dist/index.js');
+ require('kb-primo-ve-libchat');
+```
