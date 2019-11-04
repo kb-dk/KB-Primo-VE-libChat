@@ -1,6 +1,6 @@
 export let PrmExploreMainAfterConfig = {
   name: 'prmExploreMainAfter',
   config: {
-    template: "<rex-chat-box></rex-chat-box>"
+    template: "<kb-chat-box></kb-chat-box>"
   }
 };

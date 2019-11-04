@@ -50,7 +50,7 @@ ChatBoxController.$inject = ['$scope', '$location', 'scriptIds'];
 
 
 export let ChatBoxConfig = {
-    name: 'rexChatBox',
+    name: 'kbChatBox',
     config: {
         controller: ChatBoxController,
         template:`<div id="libchat_{{ $ctrl.scriptId }}></div>`,
